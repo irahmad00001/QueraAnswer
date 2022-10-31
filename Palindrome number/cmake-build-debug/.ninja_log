@@ -1,0 +1,13 @@
+# ninja log v5
+1	1650	6889439103285629	CMakeFiles/Palindrome_number.dir/main.cpp.obj	183b7cdc31384ea2
+1654	2241	6889439109275972	Palindrome_number.exe	6c034c95b314a32d
+7	1382	6889443404461642	CMakeFiles/Palindrome_number.dir/main.cpp.obj	183b7cdc31384ea2
+1383	1817	6889443408871894	Palindrome_number.exe	6c034c95b314a32d
+12	2071	6889444167825304	CMakeFiles/Palindrome_number.dir/main.cpp.obj	183b7cdc31384ea2
+2072	6501	6889444199217100	Palindrome_number.exe	6c034c95b314a32d
+15	7219	6889444559127685	CMakeFiles/Palindrome_number.dir/main.cpp.obj	183b7cdc31384ea2
+7220	10651	6889444651082945	Palindrome_number.exe	6c034c95b314a32d
+9	1529	6889445435737825	CMakeFiles/Palindrome_number.dir/main.cpp.obj	183b7cdc31384ea2
+1530	5641	6889445477010185	Palindrome_number.exe	6c034c95b314a32d
+7	7509	6889445710613547	CMakeFiles/Palindrome_number.dir/main.cpp.obj	183b7cdc31384ea2
+7510	7832	6889445713963738	Palindrome_number.exe	6c034c95b314a32d
