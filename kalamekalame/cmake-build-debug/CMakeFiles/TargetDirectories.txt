@@ -1,0 +1,3 @@
+C:/Users/Public.IRAhmad-PC/Desktop/Learn Programming/PROJECTS/quera/kalamekalame/cmake-build-debug/CMakeFiles/kalamekalame.dir
+C:/Users/Public.IRAhmad-PC/Desktop/Learn Programming/PROJECTS/quera/kalamekalame/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Public.IRAhmad-PC/Desktop/Learn Programming/PROJECTS/quera/kalamekalame/cmake-build-debug/CMakeFiles/rebuild_cache.dir
